@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей Цыганов](https://up.htmlacademy.ru/htmlcss/38/user/2425553).
-* Наставник: [Дмитрий Осадченко]. (https://htmlacademy.ru/profile/id1462895).
+* Наставник: [Дмитрий Осадченко] (https://htmlacademy.ru/profile/id1462895).
 
 ---
 
